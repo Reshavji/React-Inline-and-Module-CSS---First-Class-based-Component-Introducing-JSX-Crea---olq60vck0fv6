@@ -9,7 +9,7 @@ const heading ={
   return (
     <div id="main">
       <h1 >Success</h1>
-      <h1 id='error' >Error</h1>
+      <h1 id='error' style="font-size:50px; color:red;">Error</h1>
     </div>
   )
 }
